@@ -1,0 +1,4 @@
+Django>=2.0,<2.1
+wagtail>=2.2,<2.3
+django-dotenv==1.4.2
+psycopg2==2.7.5
